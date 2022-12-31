@@ -5,7 +5,7 @@
 <p>Dosen : Rifqi Zakaria,M.Kom</p>
 <p>Hasil Project<a href="https://postimg.cc/Pv125899"><img src="https://postimg.cc/Pv125899" alt="" /></a></p>
 <p>&nbsp;</p>
-<p><img src="https://i.ibb.co/mNV3pVb/1.jpg" alt="1" width="144" height="202" border="0" /> &nbsp;<img src="https://i.ibb.co/m9bBRGY/2.jpg" alt="2" width="147" height="202" border="0" /> &nbsp;<img src="https://i.ibb.co/jM1XY3K/3.jpg" alt="3" width="145" height="206" border="0" /></p>
+<p><img src="https://i.ibb.co/dK9TnN9/1.jpg" alt="1" width="144" height="202" border="0" /> &nbsp;<img src="https://i.ibb.co/m9bBRGY/2.jpg" alt="2" width="147" height="202" border="0" /> &nbsp;<img src="https://i.ibb.co/jM1XY3K/3.jpg" alt="3" width="145" height="206" border="0" /></p>
 <p>tampilan ke 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tampialn ke 2&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tampilan ke 3</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
